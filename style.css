@@ -1,0 +1,9 @@
+:root{
+    --cor:pink;
+    --fonte-tamanho: 30px
+}
+
+body{
+    color: var(--cor)
+    font-size:var(--fonte-tamanho);
+}
